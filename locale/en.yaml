@@ -1,0 +1,22 @@
+ogioncz-mdeditor:
+  admin:
+    help_texts:
+      title: 'Editor'
+      description: 'Select symbols to be available from the editor toolbar.'
+    labels:
+      preferences:
+        title: 'Preferences'
+        symbols: 'Symbols to be added to the toolbar (in JSON)'
+    buttons:
+      save: 'Save'
+  forum:
+    toolbar:
+      bold: 'Bold'
+      italic: 'Italic'
+      heading: 'Heading'
+      quote: 'Quote'
+      unordered_list: 'Generic List'
+      ordered_list: 'Numbered List'
+      link: 'Create Link'
+      image: 'Insert Image'
+      guide: 'Markdown Guide'
