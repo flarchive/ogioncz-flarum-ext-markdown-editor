@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of ogioncz/flarum-ext-markdown-editor.** Not for installation: use [Packagist](https://packagist.org/packages/ogioncz/flarum-ext-markdown-editor) or the [upstream repository](https://github.com/ogioncz/flarum-ext-markdown-editor).
 
-**0** versions archived · Latest: [`0.8`](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.8) · Flarum: `^0.1.0-beta.6`
+**8** versions archived · Latest: [`0.8`](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.8) · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2016-10-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.1) |
+| `0.2` | 2016-10-25 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.2) |
+| `0.3` | 2016-10-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.3) |
+| `0.4` | 2016-10-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.4) |
+| `0.5` | 2016-10-26 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.5) |
+| `0.6` | 2017-04-08 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.6) |
+| `0.7` | 2017-04-16 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.7) |
+| `0.8` | 2017-04-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/ogioncz-flarum-ext-markdown-editor/tree/archive/v0.8) |
 
 Catalog entry: [packages/ogioncz-flarum-ext-markdown-editor.json](https://github.com/flarchive/archive-index/blob/main/packages/ogioncz-flarum-ext-markdown-editor.json)
 
